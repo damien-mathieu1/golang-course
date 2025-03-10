@@ -55,7 +55,8 @@ func main() {
 	list.Insert(1)
 	list.Insert(2)
 	list.Insert(3)
-	list.Display() 
+	list.Display()
 
 	list.Delete(2)
 	list.Display()
+}
